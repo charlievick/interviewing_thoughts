@@ -10,7 +10,7 @@ When you join a new team, how do you like to learn the product? (Ideally, manage
 
 https://www.indeed.com/hire/interview-questions/manager
 
-How long have you been a manager, and how many people have you managed?
+~ How long have you been a manager, and how many people have you managed?
 
 This question helps to gauge the amount of experience your candidate possesses, and if they have managed enough people to handle your team. It also opens the door for them to qualify they type of management experience they have, such as how hands-on the work was. 
 
@@ -20,7 +20,8 @@ Confirmation of enough management experience to make an impact
 Evidence of how many people the candidate has managed
 Indications that they've taken on more responsibility over time
 Example: "I've been a manager for eight years. I started with a team of two writers six years ago at HTWW Magazine, and then I transitioned to my current role at HTWW Marketing with a team of five writers and two editors. In that time we added a project manager to the team, so I currently have eight direct reports who give me weekly status reports and receive project approvals from me."
-How would your direct reports describe your management style?
+
+~ How would your direct reports describe your management style?
 
 This question allows the candidate to reveal how they interact with employees. You'll be able to assess if their style is better for a casual office environment or high-paced, no-nonsense atmosphere — and what that means for their ability to succeed at your company. 
 
@@ -30,7 +31,8 @@ Self-awareness
 Indications that the candidate's leadership style will match your office
 Confidence in their ability to be flexible in their style as needed
 Example: "I am a somewhat hands-off manager. I like to give my team the tools they need to succeed and then let them do their thing. My staff tell me they appreciate the space I give them to make decisions, but I think they would also tell you I am there for guidance when they need it. I schedule monthly check-ins to find out about any challenges or ideas for change."
-How has your management style changed as you got more experience?
+
+~ How has your management style changed as you got more experience?
 
 Growth is an essential part of career development. This question probes how the candidate has learned and evolved as a manager. 
 
@@ -40,7 +42,8 @@ Evidence of willingness to learn and evolve as a manager
 Indications that their style will be effective for the team they would lead
 Examples of why they've changed their style
 Example: "I used to be more likely to micromanage. I thought I could keep the best handle on my team and our success if I was in charge of every detail. What I've learned through feedback and experience is that my team can feel smothered if I am too involved, and they're less likely to grow if they don't have room to make choices and mistakes."
-What is a common way you see people fail as managers?
+
+~ What is a common way you see people fail as managers?
 
 This question evaluates whether your candidate has thought of management in terms beyond their own behavior. It helps you gauge whether they are able to consider the important principles required to successfully manage a team. 
 
@@ -50,7 +53,8 @@ Awareness of what effective management looks like
 Evidence they own their mistakes
 Confirmation that they are aligned with your company's expectations of management
 Example: "One of the biggest mistakes I've seen managers make is being less than transparent. Of course, some decisions need to happen at the executive level, but the best teams are lead by someone who is honest and accountable. If a manager is not upfront about challenges or changes, they can lose the trust of their team."
-When was the last time you had to deal with an underperforming employee, and how did you handle it?
+
+~ When was the last time you had to deal with an underperforming employee, and how did you handle it?
 
 Dealing with performance issues is a key responsibility of managers. Learning how your candidate deals with this sometimes uncomfortable task can tell you a lot about them. 
 
@@ -60,7 +64,8 @@ Evidence they have experience handling employee performance issues
 Indications they are comfortable with confrontation
 Thoughtfulness regarding appropriate action for underperforming staff
 Example: "A few months ago one of my graphic designers began to have time management issues. As a result, he was turning things in late and the client noticed. I sat him down and we designed a plan for him to set new timeline goals and we took a few things off his plate that were slowing him down."
-How do you handle your mistakes in the workplace?
+
+~ How do you handle your mistakes in the workplace?
 
 How a manager deals with their own mistakes can impact their team and the company. This question lets the candidate reveal how they face adversity and take responsibility for their own miscalculations or other errors. 
 
@@ -70,7 +75,8 @@ Evidence they are able to identify their own shortcomings
 Awareness of the importance of self-correcting their mistakes as a leader
 Indications they hold themselves to a high standard as a manager
 Example: "As a manager I think it's important to have personal accountability. That sets the standard for the rest of the team. If I don't admit and correct my own mistakes, how can I ask my direct reports to do it? When I know I made a mistake I apologize to the people involved and explain about how I will do better in the future. For instance, recently I sent the wrong report to a client. I corrected the issue by sending the right report and made a commitment to the director that I would better organize my desktop files to avoid the same mistake again."
-How would you describe the most important contributions of a manager in the workplace?
+
+~ How would you describe the most important contributions of a manager in the workplace?
 
 Understanding their role in the company can help managers thrive. This question gets to the heart of how your candidate plans to use their role to contribute to your business. 
 
